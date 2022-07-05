@@ -293,4 +293,4 @@ def login():
         return 'Request not valid!'
     #return resreturn
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port='4200')
+    app.run(host='0.0.0.0', port='443')
